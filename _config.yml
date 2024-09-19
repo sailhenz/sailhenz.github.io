@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "The Mind Blog by Sai"
-description:	       "A blog that publishes anything under the sun"
+title:		           "Everyday Epiphanies"
+description:	       "Everyday Epiphanies explores faith, music, and life's simple moments, revealing the deeper meaning hidden in the everyday"
 author:              "Sai Ramirez"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
