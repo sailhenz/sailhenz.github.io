@@ -2,12 +2,12 @@
 layout: post
 title: "FCCR Liturgical Weekend"
 author: "Sai Ramirez"
-categories: sambayan
-tags: [sambayan,fccr,faith]
+categories: [sambayan,faith]
+tags: [sambayan,fccr,faith,renewal]
 image: liturgical-weekend.jpeg
 ---
 ## A Weekend of Renewal: Liturgical Workshops Inspire Faith and Deeper Understanding
-FCCR recently organized a “Liturgical Weekend” aimed at refreshing and deepening our understanding of the basics of liturgy and catechism. Held across three days, from September 13-15, the event brought together faithful participants eager to learn and grow in their service to the Church. The workshops were led by Bro. Christian Caberoy, a seminarian with a rich background in music ministry, who guided attendees through a spiritual and educational journey that left a lasting impact.
+The Filipino Catholic Community of Rotterdam recently organized a “Liturgical Weekend” aimed at refreshing and deepening our understanding of the basics of liturgy and catechism. Held across three days, from September 13-15, the event brought together faithful participants eager to learn and grow in their service to the Church. The workshops were led by Bro. Christian Caberoy, a seminarian with a rich background in music ministry, who guided attendees through a spiritual and educational journey that left a lasting impact.
 
 The weekend was structured into three parts. On Friday evening, Bro. Christian conducted a workshop titled "Music and Liturgy" for the Music Ministry, hosted at the home of Paul and Mafe Marco in Schiedam. Here, Bro. Christian highlighted the role of music in the liturgy. He carefully explained the guidelines set out in Musicam Sacram, reminding participants that music is not just an accompaniment to the mass but an integral part of worship, designed to enhance the liturgical text. The focus was on selecting appropriate music for various liturgical seasons and ensuring that songs align with the message of the liturgy.
 
