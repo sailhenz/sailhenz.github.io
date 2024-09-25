@@ -2,7 +2,7 @@
 layout: post
 title: "The Power of Showing Up: A Journey of Faith, Music, and Renewal"
 author: "Sai Ramirez"
-categories: faith
+categories: [faith]
 tags: [faith,music,renewal]
 image: the-power-of-showing-up.jpeg
 ---

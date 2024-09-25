@@ -8,9 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Sambayan',  url: 'sambayan'}
-#- {name: 'Learning Resources', url: 'resources'}
-#- {name: 'Sample Posts',       url: 'sample-posts'}
-#- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Faith', url: 'faith'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
