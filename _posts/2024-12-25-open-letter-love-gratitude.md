@@ -7,17 +7,21 @@ tags: [fccr,faith,community]
 image: openletter-2024.jpeg
 ---
 
-Dear Family, Friends, and FCCR Community,
+### Dear Family, Friends, and FCCR Community,
 
 As we gather to celebrate this joyful holiday season, I find myself reflecting on the many blessings that have graced my life this year. Foremost among these blessings are each of you—my family, friends, and community—who inspire me and strengthen my faith every day.
 
-To my wife: You are my partner, my greatest supporter, and my constant source of strength. Your love, patience, and unwavering dedication to our family remind me daily of God’s love. Through the small acts of kindness and the sacrifices you make to care for our children and home, you embody what it means to serve selflessly. Thank you for walking beside me on this journey, for grounding me in faith, and for always encouraging me to be better. I am deeply grateful for you and the countless ways you make our lives brighter.
+### To my wife: 
 
-To my family: Thank you for being my rock and my refuge. Your love and unwavering support give me the strength to serve, dream, and grow. Whether in the simplicity of a shared meal or the beauty of family prayer, I see God’s hand at work in our lives, reminding me that the most profound blessings come in the quiet moments of togetherness.
+You are my partner, my greatest supporter, and my constant source of strength. Your love, patience, and unwavering dedication to our family remind me daily of God’s love. Through the small acts of kindness and the sacrifices you make to care for our children and home, you embody what it means to serve selflessly. Thank you for walking beside me on this journey, for grounding me in faith, and for always encouraging me to be better. I am deeply grateful for you and the countless ways you make our lives brighter.
+
+### To my family: 
+
+Thank you for being my rock and my refuge. Your love and unwavering support give me the strength to serve, dream, and grow. Whether in the simplicity of a shared meal or the beauty of family prayer, I see God’s hand at work in our lives, reminding me that the most profound blessings come in the quiet moments of togetherness.
 
 To my friends: You are the companions who walk alongside me, through both challenges and triumphs. Your encouragement lifts me when I feel overwhelmed, and your joy reminds me of the beauty of friendship. Thank you for being a reflection of God’s love in my life.
 
-To our beloved FCCR community:
+### To our beloved FCCR community:
 
 Finding this community has been one of the greatest blessings in our lives. From the moment we joined, you welcomed not only us but also our children with open arms and warm hearts. You have given us a second home—a place where we can grow in faith, share our talents, and build lasting friendships.
 
@@ -33,5 +37,5 @@ As we look ahead to a new year, I pray that we continue to grow as individuals a
 
 May the love, joy, and peace of Christ fill your hearts and homes this Christmas and in the year to come. Let us remain steadfast in our journey, always seeking to love and serve as He has loved and served us.
 
-With love and prayers,
-Sai
+#### With love and prayers,
+#### Sai
