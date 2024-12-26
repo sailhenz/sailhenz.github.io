@@ -19,7 +19,9 @@ You are my partner, my greatest supporter, and my constant source of strength. Y
 
 Thank you for being my rock and my refuge. Your love and unwavering support give me the strength to serve, dream, and grow. Whether in the simplicity of a shared meal or the beauty of family prayer, I see God’s hand at work in our lives, reminding me that the most profound blessings come in the quiet moments of togetherness.
 
-To my friends: You are the companions who walk alongside me, through both challenges and triumphs. Your encouragement lifts me when I feel overwhelmed, and your joy reminds me of the beauty of friendship. Thank you for being a reflection of God’s love in my life.
+### To my friends: 
+
+You are the companions who walk alongside me, through both challenges and triumphs. Your encouragement lifts me when I feel overwhelmed, and your joy reminds me of the beauty of friendship. Thank you for being a reflection of God’s love in my life.
 
 ### To our beloved FCCR community:
 
